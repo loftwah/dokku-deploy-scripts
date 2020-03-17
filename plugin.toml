@@ -1,0 +1,4 @@
+[plugin]
+description="Script hooks to support deployments"
+version="0.0.1"
+[plugin.config]
